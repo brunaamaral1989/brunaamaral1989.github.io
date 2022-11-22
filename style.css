@@ -2,7 +2,9 @@ body {
   background-color: #807462;
 }
 
-h1 {
+
+
+.meunome{
   background-color: #a69785;
   font-family: cursive;
   font-size: 40px;
@@ -11,14 +13,7 @@ h1 {
   color: #e8fdff;
 }
 
-h2 {
-  font-size: 30px;
-  text-align: center;
-  border: 3px groove #665c49;
-  background-color: #a69785;
-  color: #e8fdff;
 
-}
 
 #apresentation {
   text-align: justify;
@@ -30,13 +25,6 @@ h2 {
   
 }
 
-img {
-  border-radius: 100%;
-  position: absolute;
-  left: 30px;
-  border: 3px groove #665c49;
-  padding: black;
-}
 .list{
     position: absolute;
     top: 500px;
@@ -67,4 +55,30 @@ h3{
 .linkedin{
   top: 720px;
   
+}
+
+div{
+  border: 4px solid green;
+}
+
+.resido{
+  font-weight: 900;
+}
+.html{
+  font-size: 30px;
+}
+.css{
+  font-size: 35px;
+}
+
+#minha-foto{
+  float: left;
+  width: 200px;
+  border-radius: 100%;
+  border: 3px groove #665c49;
+  padding: black;
+}
+
+.image-container{
+  height: 300px;
 }
