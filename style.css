@@ -1,19 +1,23 @@
 body {
-  background-color: rgb(232, 150, 198);
+  background-color: #807462;
 }
 
 h1 {
-  background-color: rgb(171, 39, 120);
+  background-color: #a69785;
   font-family: cursive;
   font-size: 40px;
   text-align: center;
-  border: 2px solid black;
+  border: 2px solid #665c49;
+  color: #e8fdff;
 }
 
 h2 {
   font-size: 30px;
   text-align: center;
-  border: 2px solid black;
+  border: 2px solid #665c49;
+  background-color: #a69785;
+  color: #e8fdff;
+
 }
 
 #apresentation {
@@ -22,6 +26,8 @@ h2 {
   position: absolute;
   left: 250px;
   top: 250px;
+  color: #e8fdff;
+  
 }
 
 img {
@@ -32,12 +38,17 @@ img {
 .list{
     position: absolute;
     top: 500px;
+    text-align: justify;
+    color: #e8fdff;
+    text-decoration: none;
+    border: 2px solid #e8fdff;
 }
 
 .paragrafos{
     position: absolute;
     top:  500px;
     left: 300px;
+    color: #e8fdff;
     
 }
 
