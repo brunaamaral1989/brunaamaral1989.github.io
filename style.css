@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(232, 150, 198);
+}
+
+h1 {
+    background-color: rgb(171, 39, 120);
+    font-family: cursive;
+    font-size: 40px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+    border: 2px solid black;
+
+}
+
+#apresentation{
+    text-align: justify;
+
+}
