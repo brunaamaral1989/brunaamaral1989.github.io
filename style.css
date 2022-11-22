@@ -7,14 +7,14 @@ h1 {
   font-family: cursive;
   font-size: 40px;
   text-align: center;
-  border: 2px solid #665c49;
+  border: 5px groove #665c49;
   color: #e8fdff;
 }
 
 h2 {
   font-size: 30px;
   text-align: center;
-  border: 2px solid #665c49;
+  border: 3px groove #665c49;
   background-color: #a69785;
   color: #e8fdff;
 
@@ -34,14 +34,15 @@ img {
   border-radius: 100%;
   position: absolute;
   left: 30px;
+  border: 3px groove #665c49;
+  padding: black;
 }
 .list{
     position: absolute;
     top: 500px;
-    text-align: justify;
     color: #e8fdff;
-    text-decoration: none;
-    border: 2px solid #e8fdff;
+    width: 150px;
+    
 }
 
 .paragrafos{
@@ -51,4 +52,19 @@ img {
     color: #e8fdff;
     
 }
+p a{
+  position: absolute;
+  text-align: center;
+  top: 650px;
+  color: #e8fdff;
+  
+}
 
+h3{
+  position: absolute;
+  top: 670px;
+}
+.linkedin{
+  top: 720px;
+  
+}
